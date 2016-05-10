@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherBoard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="BME280">BME280</string>
+    <string name="SI1132">SI1132</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Pressure">Pressure</string>
+    <string name="UV_index">UV index</string>
+    <string name="visible">Visible</string>
+    <string name="IR">IR</string>
+    <string name="Humidity">Humidity</string>
+    <string name="celcius">°C</string>
+    <string name="altitude">Altitude</string>
+    <string name="i2c_1">/dev/i2c-1</string>
+    <string name="i2c_10">/dev/i2c-10</string>
+    <string name="i2c_3">/dev/i2c-3</string>
+
+</resources>
